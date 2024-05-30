@@ -173,5 +173,5 @@ If you have questions or would like to discuss Netmiko, a #netmiko channel exist
 
 ---
 Kirk Byers  
-Network Automation Developer
+Python for Network Engineers  
 https://pynet.twb-tech.com  
